@@ -17,9 +17,39 @@ function App() {
       data-aos-duration="2000"
       >
       <img src="./image/logo.png" className = "logo-imge" alt="" />
-        </div>
-        
+        </div>  
+    <div class="grid-center">
+      <div class ="image-center">
+      <img src="./image/homeimage1.jpg" class ="image-center" alt="" />
       </div>
+      <div class ="image-center">
+      <img src="./image/homeimage1.jpg" class ="image-center" alt="" />
+      </div>
+      <div class ="image-center">
+      <img src="./image/homeimage1.jpg" class ="image-center" alt="" />
+      </div>
+      <div class ="image-center">
+      <img src="./image/homeimage1.jpg" class ="image-center" alt="" />
+      </div>
+      <div class ="image-center">
+      <img src="./image/homeimage1.jpg" class ="image-center" alt="" />
+      </div>
+      <div class ="image-center">
+      <img src="./image/homeimage1.jpg" class ="image-center" alt="" />
+      </div>
+      <div class ="image-center">
+      <img src="./image/homeimage1.jpg" class ="image-center" alt="" />
+      </div>
+      <div class ="image-center">
+      <img src="./image/homeimage1.jpg" class ="image-center" alt="" />
+      </div>
+            <div class ="image-center">
+      <img src="./image/homeimage1.jpg" class ="image-center" alt="" />
+      </div>
+
+    </div>    
+    </div>
+
 
 
   );
